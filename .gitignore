@@ -1,0 +1,14 @@
+# Python environment
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Editor settings
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+thumbs.db
